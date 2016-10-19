@@ -1,0 +1,16 @@
+body {
+  background-color: #AFECF3;
+  font-family: verdana;
+  border-style: inset;
+  border-width: 10px
+}
+
+label {
+  font-style: oblique;
+}
+
+form {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
